@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Dall-e clone.<br>- 🌱 I’m currently learning NextJS.<br>- 👯 I’m looking to collaborate on full-stack projects.<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about web.<br>- 📫 How to reach me: Profile<br>- 😄 Pronouns: He/Him
+🔭 I’m currently working on Dall-e clone.<br>- 🌱 I’m currently learning NextJS.<br>- 👯 I’m looking to collaborate on full-stack projects.<br>- 🤔 I’m looking for help with web3<br>- 💬 Ask me about web.<br>- 📫 How to reach me: [Profile](https://itsarijit.netlify.app/)<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
